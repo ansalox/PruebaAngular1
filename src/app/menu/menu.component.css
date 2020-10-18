@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+}
+p{
+    color: cadetblue;
+    font-size: 50px;
+}
+div{
+    background-image: url("../../assets/img/fifa.png");
+}
